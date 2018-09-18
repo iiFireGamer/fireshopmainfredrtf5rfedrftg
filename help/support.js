@@ -5,6 +5,6 @@ exports.run = (client, message, args) => {
   let embed = new Discord.RichEmbed()
   .setAuthor(message.author.username)
   .setColor("BLACK")
-  .addField(" This is  Server Support " , "https://discord.gg/2P6xFxa")
+  .addField(" This is  Server Support " , "we dont have")
   message.channel.sendEmbed(embed);
    }
