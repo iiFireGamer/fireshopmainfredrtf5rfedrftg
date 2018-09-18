@@ -9,23 +9,23 @@ message.author.send(`\n\n\`\`\`
 
 _________________________________________________
 |                                               |              
-|  -ban  = <@user> <reason>                     |
-|  -kick = <@user> <reason>                     |
-|  -delete = chat                               | 
-|  -clean  = clean chat from 1-100              |
-|  -mute = <@user> <time> <reason>              |
-|  -unmute = <@user> <reason>                   |
-|  -role = <@user> <namerole>                   |
-|  -removerole = <@user> <name role>            |
-|  -bans = all members banned                   |
-|  -chatmute                                    |
-|  -openchat                                    |
-|  -say = command say normal                    |
-|  -sayembed = command say with embed           |
-|  -shut = @<user> Mute a user from the room    |
-|  -open = @<user> open mute user from room     |
-|  -antilinks = blocker links other clans       |
-|  -antiinfo = information about command        |
+|  f!ban  = <@user> <reason>                     |
+|  f!kick = <@user> <reason>                     |
+|  f!delete = chat                               | 
+|  f!clean  = clean chat from 1-100              |
+|  f!mute = <@user> <time> <reason>              |
+|  f!unmute = <@user> <reason>                   |
+|  f!role = <@user> <namerole>                   |
+|  f!removerole = <@user> <name role>            |
+|  f!bans = all members banned                   |
+|  f!chatmute                                    |
+|  f!openchat                                    |
+|  f!say = command say normal                    |
+|  f!sayembed = command say with embed           |
+|  f!shut = @<user> Mute a user from the room    |
+|  f!open = @<user> open mute user from room     |
+|  f!antilinks = blocker links other clans       |
+|  f!antiinfo = information about command        |
 |_______________________________________________|
                                              
        don forget create channel named logs         
