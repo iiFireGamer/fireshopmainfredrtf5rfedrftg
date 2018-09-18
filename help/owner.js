@@ -7,24 +7,24 @@ exports.run = (client, message, args) => {
      ⚠ commands controle a bot 💬
 ________________________________________________________________
 |                                                             
-| ✦ To change name the bot type --name                         
-| ✦ to make bot on streaming twitch --tw
-| ✦ ito make bot play a game --play
-| ✦ to make bot watching state --wt
-| ✦ if you want make bot listening type --lis
-| ✦ to change photo ths bot --photo and url link the photo    
+| ✦ To change name the bot type f!f!name                         
+| ✦ to make bot on streaming twitch f!f!tw
+| ✦ ito make bot play a game f!f!play
+| ✦ to make bot watching state f!f!wt
+| ✦ if you want make bot listening type f!f!lis
+| ✦ to change photo ths bot f!f!photo and url link the photo    
 | 
 |  ⚠ commands change state the bot 💬
 |
-| ✦ state dnd type --dnd ❤
-| ✦ state idle type --idle 🧡
-| ✦ state online type --online 💚
+| ✦ state dnd type f!f!dnd ❤
+| ✦ state idle type f!f!idle 🧡
+| ✦ state online type f!f!online 💚
 |
 | ⚠ commands messages 💬                                      
 |                                                               
-| ✦ command say for owner -²²  any word                        
-| ✦ brodcast owner type --message                              
-| ✦ send message from bot to user --send <@!user>              
+| ✦ command say for owner f!²²  any word                        
+| ✦ brodcast owner type f!f!message                              
+| ✦ send message from bot to user f!f!send <@!user>              
 |______________________________________________________________ 
 \`\`\``)
   
