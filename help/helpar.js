@@ -5,12 +5,12 @@ if(!message.channel.guild) return message.reply('this command is for guilds only
 let abdo = new Discord.RichEmbed()
 .setColor(message.guild.me.highestRole.color) 
 .setAuthor(message.author.username+`#${message.author.discriminator}`,message.author.displayAvatarURL)
-.addField('-adminar :tools:','الاوامر المشرفين',true)
-.addField('-info 📚','معلومات عامة',true)    
-.addField('-fun :circus_tent:','الاوامر الممتعة',true)    
-.addField('-music :notes:','الاوامر الموسيقى',true)  
-.addField('-text 🈂','أوامر نصية',true)   
-.addField('-Image :camera:','أوامر الصور',true)   
+.addField('f!adminar :tools:','الاوامر المشرفين',true)
+.addField('f!info 📚','معلومات عامة',true)    
+.addField('f!fun :circus_tent:','الاوامر الممتعة',true)    
+.addField('f!music :notes:','الاوامر الموسيقى',true)  
+.addField('f!text 🈂','أوامر نصية',true)   
+.addField('f!Image :camera:','أوامر الصور',true)   
 .setFooter(client.user.username,client.user.displayAvatarURL)   
 message.channel.send(abdo);
 }
