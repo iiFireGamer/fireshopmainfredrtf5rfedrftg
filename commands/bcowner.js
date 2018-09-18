@@ -4,7 +4,7 @@ exports.run = (client, message, args) => {
   if(!message.channel.guild) return message.reply('this command is for guilds only!');
   if (!message.channel.guild) return;
   let args = message.content.split(" ").slice(1).join(" ");
-  client.users.get("406192153979518976").send( //id owner here
+  client.users.get("408374252291751976").send( //id owner here
       "\n" + `**Name the server** : ${message.guild.name}`+
       "\n" + `**Sender** : ${message.author.tag}`+
       "\n" + `**Message** : ${args}` )
