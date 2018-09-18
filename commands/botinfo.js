@@ -17,9 +17,9 @@ exports.run = (client, message, args) => {
      .addField('My Name' , ` ${client.user.tag} ` , true)
      .addField('My ID' , ` ${client.user.id} ` , true)
      .addField('Voice Connections' ,`${client.voiceConnections.size}` , true)
-     .addField('My Prefix' , `[ - ]` , true)
+     .addField('My Prefix' , `[ f! ]` , true)
      .addField('My Language' , `[ Java Script ]` , true)
-     .setFooter('Creator ID: abdo#1889')
+     .setFooter('Creator ID: iiFireGamer')
      .setTimestamp()
   })
   }
